@@ -1,10 +1,3 @@
-## Hi there 👋
-
-<!--
-**VitaliiKharlan/VitaliiKharlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 👋 Hi, I'm Vitalii Kharlan
 
 🚀 Mobile Engineer from Kyiv, Ukraine  
@@ -19,3 +12,10 @@ Here are some ideas to get you started:
 
 ## 📫 Contact
 Feel free to connect via LinkedIn!
+
+<!--
+**VitaliiKharlan/VitaliiKharlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
