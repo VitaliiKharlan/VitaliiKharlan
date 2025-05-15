@@ -5,12 +5,17 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 Hi, I'm Vitalii Kharlan
+
+🚀 Mobile Engineer from Kyiv, Ukraine  
+💼 Available for hire  
+🔗 [LinkedIn](https://www.linkedin.com/in/vitalii-kharlan-443312366/)
+
+## 🛠️ Technologies
+- Flutter / Dart
+- Firebase
+- BLoC, GetX, Provider
+- REST APIs, Firestore, SQLite
+
+## 📫 Contact
+Feel free to connect via LinkedIn!
