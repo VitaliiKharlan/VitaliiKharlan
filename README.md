@@ -2,7 +2,7 @@
 
 🚀 Mobile Engineer from Kyiv, Ukraine  
 💼 Available for hire  
-🕒 1+ year of expirience
+🕒 1+ year of expirience 
 🔗 [LinkedIn](https://www.linkedin.com/in/vitalii-kharlan-443312366/)
 
 ## 🛠️ Technologies
