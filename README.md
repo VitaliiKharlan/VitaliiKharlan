@@ -4,6 +4,7 @@
 💼 Available for hire  
 🕒 1+ year of expirience 
 🔗 [LinkedIn](https://www.linkedin.com/in/vitalii-kharlan-443312366/)
+https://drive.google.com/file/d/1jESlUqVMwN6QAJ8HbyG75lVE1oEsnSZ-/view?usp=drive_link
 
 ## 🛠️ Technologies
 - Flutter / Dart
