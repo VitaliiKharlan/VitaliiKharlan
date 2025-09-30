@@ -1,36 +1,38 @@
-## Hi there 👋
+<h2 align="left">Hi there 👋</h2>
 
-## About me
+###
 
-✨ Has more than 1+ years in software development...
-🎯 Flutter 1+
-🎲 CV - https://resume.io/app/resumes/56128492
+<p align="left">My name is Vitalii and I'm a mobile engineer</p>
 
-## I code with
-![Flutter Logo](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=whitehttps://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=
+###
 
-<!--
-**VitaliiKharlan/VitaliiKharlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="left">About me</h2>
 
-My name is Vitalii and I'm a mobile engineer
+###
 
-About me
-✨ Has more than 1+ years in software development...
-🎯 Flutter 1+
-🎲 CV - https://resume.io/app/resumes/56128492
+<p align="left">✨ Has more than 1+ years in software development...<br>🎯 Flutter 1+ <br>🎲 CV - https://resume.io/r/QYFnYD3C0</p>
 
-I code with
-flutter logo   firebase logo  
-linkedin logo 
+###
 
-Here are some ideas to get you started:
+<h2 align="left">I code with</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/vitaliy-kharlan-443312366/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
+
+###
