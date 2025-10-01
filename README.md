@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Has more than 1+ years in software development...<br>🎯 Flutter 1+ <br>🎲 CV - https://resume.io/r/QYFnYD3C0</p>
+<p align="left">✨ Has more than 1+ years in software development...<br>🎯 Flutter 1+ <br>🎲 CV - https://drive.google.com/file/d/1PF31B1rzkZQ6Q0hoMgs0m1C_8-75y_5c/view?usp=sharing</p>
 
 ###
 
